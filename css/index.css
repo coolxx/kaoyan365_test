@@ -209,7 +209,7 @@ a{ text-decoration:none; color:#333; }
 }
 
 .zg_kytt{
-    height: 0.93rem;
+    height: 1rem;
     overflow: hidden;
 }
 .zg_kytt p{
@@ -237,6 +237,7 @@ a{ text-decoration:none; color:#333; }
 }
 .zg_kytt_show ul li{
     margin-top: 0.2rem;
+    height: 0.24rem;
     overflow: hidden;
 }
 .zg_kytt_show span{
