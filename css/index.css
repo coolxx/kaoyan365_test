@@ -238,7 +238,6 @@ a{ text-decoration:none; color:#333; }
 .zg_kytt_show ul li{
     margin-top: 0.2rem;
     height: 0.24rem;
-    overflow: hidden;
 }
 .zg_kytt_show span{
     float: left;
